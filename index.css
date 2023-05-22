@@ -11,3 +11,10 @@
     height: 200px;
     border-radius: 50%;
 }
+
+.action {
+    margin: 10px;
+}
+button {
+    cursor: pointer;
+}
